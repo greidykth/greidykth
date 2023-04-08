@@ -1,21 +1,20 @@
-### ¡Bienvenidos a mi repositorio de GitHub!👋
+### ¡Welcome to my GitHub repository! 👋
 
-### Sobre mí
+### About me
 
-Soy un desarrollador full stack con más de dos años de experiencia en el campo de la tecnología y el desarrollo de software. Me especializo en la construcción de soluciones de alto impacto para automatizar los procesos de las empresas. Durante mi carrera profesional, he trabajado con tecnologías como Laravel, React JS, Node JS, Express y bases de datos MySQL y PostgreSQL.
+I am a full stack developer with over three years of experience in the field of technology and software development. I specialize in building high-impact solutions to automate business processes. Throughout my professional career, I have worked with technologies such as Laravel, React JS, Node JS, Express, and databases like MySQL and PostgreSQL.
 
-### Habilidades técnicas
+### Technical Skills
 
-- Lenguajes de programación: PHP, JavaScript
+- Programming languages: PHP, JavaScript
 - Frameworks: Laravel, React JS, Express
-- Bases de datos: MySQL, PostgreSQL
-- Herramientas de desarrollo: Git, Docker, Node Js, Redux
+- Databases: MySQL, PostgreSQL
+- Development tools: Git, Docker, Node Js, Redux
 
-### Contacto
-
-Si tienes alguna pregunta o simplemente quieres ponerte en contacto conmigo, puedes enviarme un correo electrónico o encontrarme en LinkedIn:
+### Contact
+If you have any questions or just want to get in touch, feel free to email me or find me on LinkedIn:
 📫 greidykp@gmail.com
 🚀🔗 https://www.linkedin.com/in/greidypena/
 
-## ¡Gracias por visitar mi repositorio!
+## Thanks for visiting my repository!
 
