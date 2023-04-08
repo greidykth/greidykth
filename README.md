@@ -1,16 +1,21 @@
-### Hi there 👋
+### ¡Bienvenidos a mi repositorio de GitHub!👋
 
-<!--
-**greidykth/greidykth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrollador full stack con más de dos años de experiencia en el campo de la tecnología y el desarrollo de software. Me especializo en la construcción de soluciones de alto impacto para automatizar los procesos de las empresas. Durante mi carrera profesional, he trabajado con tecnologías como Laravel, React JS y bases de datos MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Habilidades técnicas
+
+##Lenguajes de programación: PHP, JavaScript
+##Frameworks: Laravel, React JS, Express
+##Bases de datos: MySQL, PostgreSQL
+##Herramientas de desarrollo: Git, Docker, Node Js, Redux
+
+###Contacto
+
+Si tienes alguna pregunta o simplemente quieres ponerte en contacto conmigo, puedes enviarme un correo electrónico o encontrarme en LinkedIn:
+📫 greidykp@gmail.com
+🚀🔗 https://www.linkedin.com/in/greidypena/
+
+¡Gracias por visitar mi repositorio!
+
