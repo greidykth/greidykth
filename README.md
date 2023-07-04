@@ -28,7 +28,7 @@
 </p>
 
 ### 📞 Contact with me
-<p>🚀🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/greidypena/) to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.</p>
+<p>🚀🔗 You can find me on LinkedIn https://www.linkedin.com/in/greidypena to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.</p>
 <p>📫 If you have any questions or just want to get in touch, feel free to email me on greidykp@gmail.com.</p>
 
 #### Thank you for visiting my profile! I look forward to contributing and being a part of your next exciting project. 😊
