@@ -10,7 +10,7 @@
 
 💡 If you're looking for a committed developer who is capable of working in a team and passionate about creating quality applications, feel free to reach out to me! I'm excited to collaborate on innovative projects and contribute to your company's success.
 
-<h3>💻 Things I code with</h3>
+<h3>💻 Technologies I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
